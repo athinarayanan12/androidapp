@@ -1,0 +1,6 @@
+{
+  "name": "AutoTube",
+  "description": "Android Auto inspired YouTube client with background playback and simulated offline downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

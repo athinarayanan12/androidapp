@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AutoTube</string>
+    <string name="title_activity_main">AutoTube</string>
+    <string name="package_name">com.autotube.app</string>
+    <string name="custom_url_scheme">com.autotube.app</string>
+</resources>

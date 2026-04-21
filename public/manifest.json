@@ -1,0 +1,21 @@
+{
+  "name": "AutoTube - Android Auto YouTube",
+  "short_name": "AutoTube",
+  "description": "Android Auto inspired YouTube client with background playback.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#FF0000",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/autotube/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/autotube/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
